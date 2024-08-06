@@ -12,18 +12,19 @@ Dart(Flutter), HTML, CSS, JavaScript, Svelte, TypeScript.
 
 - 📫 How to reach me: https://t.me/the_anushervon
 
-## My Projects : 
+## My Projects :
 <p align="center">
-  
+
   <a href="https://github.com/absorian/cryptoclicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=absorian&repo=cryptoclicker&show_owner=true" alt="CryptoClicker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=absorian&repo=cryptoclicker&show_owner=true&theme=dark" alt="CryptoClicker">
   </a>
-  
+
   <a href="https://github.com/TheAnushervon/QuizCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAnushervon&repo=QuizCraft&show_owner=true" alt="QuizCraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAnushervon&repo=QuizCraft&show_owner=true&theme=dark" alt="QuizCraft">
   </a>
-  
+
 </p>
+
 
 <!--
 **TheAnushervon/TheAnushervon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
