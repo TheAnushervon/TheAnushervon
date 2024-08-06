@@ -1,5 +1,8 @@
 ## Hi there 👋
-I'm Anush, Innopolis University Student, and I am backend developer. My stack is Python(Django) with the addition of PostgreSQL. I also have experience on working with the following languages/frameworks/technologies: Dart(Flutter), gRPC, ZeroMQ, C/C++, Java, MySQL.
+I'm Anush, Innopolis University Student, and I am backend developer. My stack is Python(Django) with the addition of PostgreSQL. I also have experience on working with the following languages/frameworks/technologies: gRPC, ZeroMQ, C/C++, Java, MySQL.
+
+Also I have experience in fronted developing and I used the following languages/frameworks/technologies: 
+Dart(Flutter), HTML, CSS, JavaScript, Svelte, TypeScript.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theanushervon)
 <!--
