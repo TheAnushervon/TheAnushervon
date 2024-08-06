@@ -14,15 +14,32 @@ Dart(Flutter), HTML, CSS, JavaScript, Svelte, TypeScript.
 
 ## My Projects :
 <p align="center">
-
-  <a href="https://github.com/absorian/cryptoclicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=absorian&repo=cryptoclicker&show_owner=true&theme=dark" alt="CryptoClicker">
-  </a>
-
-  <a href="https://github.com/TheAnushervon/QuizCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAnushervon&repo=QuizCraft&show_owner=true&theme=dark" alt="QuizCraft">
-  </a>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=absorian&repo=cryptoclicker&show_owner=true&theme=dark" alt="CryptoClicker">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAnushervon&repo=QuizCraft&show_owner=true&theme=dark" alt="QuizCraft">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IU-Capstone-Project-2024&repo=Team-44&show_owner=true&theme=dark" alt="Team-44">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoqub-davlatov&repo=loading_indicators&show_owner=true&theme=dark" alt="loading_indicators">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAnushervon&repo=FWD-Assignments.github.io&show_owner=true&theme=dark" alt="FWD-Assignments.github.io">
+      </td>
+      <td>
+        <!-- You can add another repository here if needed -->
+      </td>
+    </tr>
+  </table>
 </p>
 
 
