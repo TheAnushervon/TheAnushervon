@@ -7,6 +7,8 @@ I'm Anush, Innopolis University student, focusing on software quality assurance 
 Main tools & technologies: Python, Playwright, pytest, Postman, PostgreSQL.
 
 Interested in test automation, API & UI testing, and building reliable systems.
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theanushervon)
 
 - 📫 How to reach me: https://t.me/the_anushervon
